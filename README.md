@@ -18,6 +18,7 @@
 
 **画面**则是作者对复杂材质和光照的处理，通过曲线复合以及灰度层复合（极黑，深黑，黑，深灰，次深灰，低中灰，中灰，重中灰，重浅灰，中浅灰，弱浅灰，浅灰，0灰）来复合出复杂的画面。
 
-![图片](https://github.com/justoneckh/CHEN/blob/master/8.jpg)
+![](https://github.com/justoneckh/CHEN/blob/master/6.jpg)
+
 
 不同于诗歌，诗人站在自己的角度上任意使用时空，而电影、摄影只能在实际的客观的时空下进行制作。
